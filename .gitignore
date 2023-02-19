@@ -4,4 +4,8 @@ target/
 .project/
 .settings/
 .mvn/
+*.fib.java
+*.FibTest.java
+*.FiboRecurison.java
+*.FiboRecurisonTest.java
 
